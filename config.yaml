@@ -1,0 +1,6 @@
+model: "yolov8n.pt"
+alert_classes: ["person", "car", "motorbike", "bicycle", "dog", "cat"]
+confidence_threshold: 0.45
+sound_path: "sounds/engine_idle.wav"
+play_cooldown: 1.0
+camera_index: 0
