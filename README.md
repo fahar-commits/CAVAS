@@ -16,7 +16,7 @@ Short: YOLOv8-powered system that detects pedestrians, vehicles, and animals and
 1. Clone repo
 2. Create virtualenv and install requirements:
 <p align="center">
-  <img src="images/demo.png" width="600" alt="Detection Demo">
+  <img src="images (1).jpg" width="600" alt="Detection Demo">
 </p>
 
    
