@@ -1,0 +1,6 @@
+ultralytics
+opencv-python
+playsound
+pandas
+matplotlib
+pyyaml
