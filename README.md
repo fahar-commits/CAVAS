@@ -18,5 +18,9 @@ Short: YOLOv8-powered system that detects pedestrians, vehicles, and animals and
 <p align="center">
   <img src="images (1).jpg" width="600" alt="Detection Demo">
 </p>
+<p align="center">
+  <img src="download (2).jpg" width="600" alt="Detection Demo">
+</p>
+
 
    
